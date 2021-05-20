@@ -81,7 +81,7 @@ h1 {
 }
 
 #contact{
-    background: rgb(115, 185, 202);
+    background: rgb(133, 241, 157);
 }
 
 .contact_1 a{
@@ -92,6 +92,12 @@ h1 {
 .contact_1 h3{
     display: inline;
 }
+
+.Inspiration{
+    background-color:#42f5f2;
+    text-align:center;
+  }
+  
 
 #img4{
     border-radius:50%;
@@ -118,4 +124,8 @@ h1 {
   
   #img5:hover{
     transform:scale(0.9);
+  }
+
+  .Hobby{
+      background-color: lightslategray;
   }
